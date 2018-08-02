@@ -1,4 +1,4 @@
-# mmc_graph_recommendation
+# A General-purpose heterogeneous graph-based Recommendation System model
 
 <img src="result.png" width=40% align="right" />
 
